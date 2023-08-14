@@ -23,3 +23,14 @@ API: https://developer.spotify.com/documentation/web-api/
 
 1. UIKit
 2. Spotify Web API
+
+
+# Setup project
+
+Go to Spotify and create an App so you get the ClientID and Client Secret https://developer.spotify.com/documentation/general/guides/authorization/app-settings/
+
+Copy the values to the file Utils/Constants.swift
+
+    static let clientID = "YOUR_CLIENT_ID"
+    static let clientSecret = "YOUR_CLIENT_SECRET"
+Run the project with Xcode
