@@ -8,18 +8,18 @@ API: https://developer.spotify.com/documentation/web-api/
 
 # Features
 
--> Recommended tracks
--> Top artists
--> New releases
--> Playlists / Featured playlists
--> Explore categories
--> Search songs, artists, playlists, albums
--> Save / Delete songs
--> Shuffle
--> Repeat
+1. Recommended tracks
+2. Top artists
+3. New releases
+4. Playlists / Featured playlists
+5. Explore categories
+6. Search songs, artists, playlists, albums
+7. Save / Delete songs
+8. Shuffle
+9. Repeat
 
 
 # Stack
 
--> UIKit
--> Spotify Web API
+1. UIKit
+2. Spotify Web API
