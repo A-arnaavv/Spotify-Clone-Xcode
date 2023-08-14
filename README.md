@@ -6,11 +6,11 @@ API: https://developer.spotify.com/documentation/web-api/
 
 
 
-Features
+# Features
 
-Recommended tracks
-Top artists
-New releases
+1. Recommended tracks
+2. Top artists
+3. New releases
 Playlists / Featured playlists
 Explore categories
 Search songs, artists, playlists, albums
