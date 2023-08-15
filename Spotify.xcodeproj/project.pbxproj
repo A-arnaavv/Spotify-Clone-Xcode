@@ -657,6 +657,7 @@
 				DEVELOPMENT_TEAM = 33ADQNHC38;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Spotify/Core/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Spotify Clone";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
@@ -685,6 +686,7 @@
 				DEVELOPMENT_TEAM = 33ADQNHC38;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Spotify/Core/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Spotify Clone";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
